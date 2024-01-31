@@ -1,3 +1,6 @@
+# DISPLAY
+![Simple Calculator](image.png)
+
 # Fix Bugs Diary:
     1. Can only perform operations between 0 and 9 (1+1), cannot perform operations like tens or hundreds (11+1) .
 
