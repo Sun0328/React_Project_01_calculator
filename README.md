@@ -13,3 +13,10 @@
     1. Added CSS when hovering buttons
 
     2. Added function 'Back' to undo the last input
+
+# Reference:
+    1. ReactJS Tutorial - Build a Calculator App from Scratch
+    https://www.youtube.com/watch?v=n_cKSILMzmM
+
+    2. math.js library
+    https://mathjs.org/index.html
