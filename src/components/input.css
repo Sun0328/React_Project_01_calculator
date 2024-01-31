@@ -1,0 +1,23 @@
+.input-wrapper {
+    height: 10em;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 18px;
+}
+
+.result {
+    flex: 1;
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    padding-top: 10px;
+}
+
+.text {
+    flex: 1;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 4px;
+}
