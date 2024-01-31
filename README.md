@@ -1,6 +1,7 @@
 # DISPLAY
 Deployed to Vercel: (Welcome test!)
 https://react-project-01-calculator.vercel.app/
+
 ![Simple Calculator](image.png)
 
 # Fix Bugs Diary:
